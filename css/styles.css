@@ -692,6 +692,7 @@ img {
   margin-bottom: 20px;
   font-size: 14px;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
   color: var(--background-body-color);
 }
 
